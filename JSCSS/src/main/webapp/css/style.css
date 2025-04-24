@@ -1,0 +1,116 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 3, 2014, 9:52:57 AM
+    Author     : pemvis
+*/
+
+body {
+    background: #3498DB;
+    margin: 0px;
+}
+
+#container {
+    font-family: Tahoma;
+    font-size: 13px;
+    margin: 50px auto 0px;
+    padding: 35px;
+    width: 450px;
+    background: #edeff1;
+    border: 1px solid #ffffff;
+    border-radius: 9px;
+    -o-border-radius: 9px;
+    -moz-border-radius: 9px;
+    -webkit-border-radius: 9px;
+}
+
+#contain {
+    font-family: Tahoma;
+    font-size: 13px;
+    margin: 70px auto 0px;
+    padding: 35px;
+    width: 450px;
+    background: #66ff66;
+    border: 1px solid #66ff66;
+    border-radius: 9px;
+    -o-border-radius: 9px;
+    -moz-border-radius: 9px;
+    -webkit-border-radius: 9px;
+}
+
+#container h3 {
+    color: #f0f0f0;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+
+#contain h3 {
+    color: #f0f0f0;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+
+#container label {
+    color: #333;
+    float: left;
+    width: 170px;
+    margin-top: 5px;
+}
+
+#contain label {
+    color: #333;
+    float: left;
+    width: 170px;
+    margin-top: 5px;
+}
+
+#contain .class {
+    color: #ffffff;
+    float: left;
+    width: 10px;
+}
+
+#contain br {
+    clear: both;
+}
+#container input {
+    margin-bottom: 7px;
+    border: 1px solid #CCC;
+    border-radius: 2px;
+    -o-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+
+#container select {
+    margin-bottom: 7px;
+    border: 1px solid #CCC;
+    border-radius: 2px;
+    -o-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+
+#container .button {
+    color: #FFF;
+    cursor: pointer;
+    padding: 3px 9px;
+    background: #428bca;
+    border: 1px solid greenyellow;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+
+#container .button:hover {
+    background: #f0f0f0;
+    border:1px solid greenyellow;
+}
+
+#container br {
+    clear: both;
+}

@@ -1,0 +1,4 @@
+com\study\biodata\connection\Koneksi.class
+com\study\biodata\dao\MahasiswaDao.class
+com\study\biodata\controller\MahasiswaController.class
+com\study\biodata\javabeans\Mahasiswa.class
